@@ -60,7 +60,7 @@ This example is inspired by the official [AWS SageMaker tutorial][aws_sgmkr], wh
 
 
 [qbst]: https://github.com/dwavesystems/qboost "D-Wave QBoost GitHub page"
-[aws_sgmkr]: http://scikit-learn.org "AWS SageMaker scikit-learn tutorial"
+[aws_sgmkr]: https://aws.amazon.com/it/blogs/machine-learning/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/ "AWS SageMaker scikit-learn tutorial"
 [dockerfile]: https://docs.docker.com/engine/reference/builder/ "The official Dockerfile reference guide"
 [ecr]: https://aws.amazon.com/ecr/ "ECR Home Page"
 [nginx]: http://nginx.org/
